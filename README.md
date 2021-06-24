@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeesha12
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning python , Golang , tensorflow 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

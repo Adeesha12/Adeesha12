@@ -1,5 +1,6 @@
-## Hello There
-- 👋 Hi, I’m @Adeesha12
+## Hello I’m Adeesha 👋
+
+I'm a freelancer developer. I'm developing 🤖machine learning algorithms to real-world 💥problems and : analysing real-world Data. Providing the ✨best solutions for problems always make me exiting.   
 - 👀 I’m interested in machine learning 
 - 🌱 I’m currently learning python , Golang , tensorflow 
 - 💞️ I’m looking to collaborate on ...

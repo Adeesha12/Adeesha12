@@ -2,8 +2,8 @@
 
 I'm a freelancer developer. I'm developing 🤖 machine learning algorithms to real-world problems💥 and 💻 analysing real-world Data💥. 
 Providing the ✨best solutions for problems always make me exiting 💖. Some technologies I enjoy working with include Python, tensorflow and golang.
-I recently was selected as a data analyst.
-🌱 I’m currently learning Golang. <br>
+I recently was selected as a data analyst.<br>
+🌱 I’m currently learning Golang. 
 ☘️I belive in continues practice is the best path to become master.<br>  
 🚩 Reach me  <a href="https://www.linkedin.com/in/aanjana/">Linkdien</a> 
 

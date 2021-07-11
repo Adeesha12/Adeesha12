@@ -5,7 +5,6 @@ Providing the ✨best solutions for problems always make me exiting 💖. Some t
 I recently was selected as a data analyst.<br>
 
 -🌱 I’m currently learning Golang.
-
 -☘️I belive in continues practice is the best path to become master.  
 -🚩 Reach me  <a href="https://www.linkedin.com/in/aanjana/">Linkdien</a> 
 

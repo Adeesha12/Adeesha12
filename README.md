@@ -6,7 +6,7 @@ I recently was selected as a data analyst.<br>
 
 -🌱 I’m currently learning Golang.<br>
 -☘️I belive in continues practice is the best path to become master.  
--🚩 Reach me  <a href="https://www.linkedin.com/in/aanjana/">Linkdien</a> 
+-🚩 Reach me on <a href="https://www.linkedin.com/in/aanjana/">Linkdien</a> 
 
 <!---
 Adeesha12/Adeesha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

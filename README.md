@@ -1,15 +1,10 @@
-## Hello I’m Adeesha 👋
+
+<h1 align="center">Hi 👋, I'm Adeesha</h1>
+<h3 align="center">A passionate backend developer with machine learning expertise from Sri Lanka</h3>
 
 I'm a professional developer. I'm developing 🤖 web appilaction for real-world problems💥 and 💻 analysing real-world Data💥. 
 Providing the ✨best solutions for problems always make me exiting 💖. Some technologies I enjoy working with include Python and golang.
 I recently was selected as a backend engineer.<br>
-
--🌱 I’m currently learning Golang.<br>
--☘️I belive in continues practice is the best path to become master.  
--🚩 Reach me on <a href="https://www.linkedin.com/in/aanjana/">Linkdien</a> 
-
-<h1 align="center">Hi 👋, I'm Adeesha</h1>
-<h3 align="center">A passionate backend developer with machine learning expertise from Sri Lanka</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 

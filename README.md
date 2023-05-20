@@ -3,7 +3,7 @@
 <h3 align="center">A passionate backend developer with machine learning expertise from Sri Lanka</h3>
 
 I'm a professional developer. I'm developing 🤖 web appilaction for real-world problems💥 and 💻 analysing real-world Data💥. 
-Providing the ✨best solutions for problems always make me exiting 💖. Some technologies I enjoy working with include Python and golang.
+Providing the ✨best solutions for problems always make me exiting 💖. Some technologies I enjoy working with include Python.
 I recently was selected as a backend engineer.<br>
 
 - 🌱 I’m currently learning **Machine Learning**

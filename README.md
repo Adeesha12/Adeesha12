@@ -31,8 +31,8 @@ I recently was selected as a backend engineer.<br>
 Adeesha12/Adeesha12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha12&show_icons=true&locale=en&layout=compact" alt="adeesha12" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adeesha12&show_icons=true&locale=en&layout=compact" alt="adeesha12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adeesha12&show_icons=true&locale=en" alt="adeesha12" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeesha12&" alt="adeesha12" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adeesha12&" alt="adeesha12" /></p> -->
